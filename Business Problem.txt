@@ -1,4 +1,4 @@
-Introduction
+1. Introduction
 
 New Delhi is the capital city of India. It is a part of the city of Delhi’s 11 districts. The city itself has a population of 257,803. However, the much larger metro area has a population that exceeds 26 million.
 
@@ -8,7 +8,7 @@ The official language of New Delhi and the one that is most widely spoken is Hin
 
 With it’s diverse culture , comes diverse food items. We all know that Indians love spicy foods but how do they accept the western food? How much they like the most common drink in western countries, like coffee? So as part of this project , we will list and visualise all major parts of New Delhi City.
 
-Questions that can be asked using the above mentioned datasets
+2. Questions that can be asked using the above mentioned datasets
 
 * What is best location in New Delhi City for a Cafe ?
 * Which areas have large number of Cafe Market ?
